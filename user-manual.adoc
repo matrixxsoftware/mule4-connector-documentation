@@ -1,10 +1,10 @@
-= REDOX Connector
+= MATRIXX Monetization Connector
 
 MuleSoft Certified
 
-== About REDOX
+== About MATRIXX Software
 
-Redox provides integration infrastructure that can be managed by your team through a single platform and connection.  The Redox integration platform has been built based on experience with millions of messages, thousands of HL7 feeds and EHR vendor API calls, and with hundreds of healthcare organizations and healthcare software providers.
+MATRIXX is the world’s go-to monetization solution for telcos who are transforming their business to accelerate innovation as they roll out new network capabilities (5G Standalone and MEC) to effectively compete against existing and emerging competition by providing differentiated real-time customer experiences.  MATRIXX Digital Commerce Platform is purpose-built to deliver web scale performance and agility to diversify revenue streams, better segment customer offers, and innovate more rapidly.  MATRIXX DCP monetizes telco offers across lines of business including consumer, enterprise and wholesale, and facilitates the convergence of existing distinct OSS/BSS silos into a unified monetization process.
 
 == About REDOX Connector
 
