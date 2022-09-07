@@ -18,12 +18,10 @@ With the MATRIXX Monetization Connector, a telco can readily integrate and orche
 * Ensure that all new orders, moves, additions, changes, or deactivations are immediately reflected on the customer’s subscriptions so that one-time charges, recurring charges and usage charges are accurate at all times
 
 == Prerequisites
-This document assumes that you are familiar with Mule, Anypoint Connectors,
-Anypoint Studio Essentials, Mule flows, and Mule Global Elements.
+This document assumes that you are familiar with Mule, Anypoint Connectors and 
+Anypoint Studio.
 
-To use REDOX connector, you need
-
-* Anypoint Studio version 7.
+To use MATRIXX Monetization Connector, you need access to MATRIXX server
 
 == Mule Compatibility
 
