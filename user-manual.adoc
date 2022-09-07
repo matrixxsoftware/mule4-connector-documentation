@@ -62,11 +62,9 @@ image::img/redox-configt.png[]
 [options="header",width="50%"]
 |============
 |Field Name         |Value
-|Base Uri           |Enter a Windows domain for the user to log in with.
-|Access Token url   |url to generate token to access redox server.
-|Api Key            |Enter the Api Key to log in with.
-|Secret             |Enter the corresponding Secret.Both Api Key and Secret are used to generate token.
-|Response Timeout   |Timeout for response, in Minutes(Default).
+|Base Uri           |Enter a MATRIXX server.
+|Username   | Basic Authentication username.
+|Password   | Basic Authentication password.
 
 |============
 +
