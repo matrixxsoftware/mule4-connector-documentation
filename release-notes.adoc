@@ -5,6 +5,7 @@ _MuleSoft Certified_
 MATRIXX Monetization Connector enables CSP's to readily integrate and orchestrate MATRIXX DCP's monetization capabilities in real time to all their BSS/OSS systems!
 
 == Version 1.0.0 - September 2022
+This is the first release of the MATRIXX Monetization Connector.
 
 == Version 1.0.0 - Compatibility
 The MATRIXX Monetization Connector is compatible with these software versions:
