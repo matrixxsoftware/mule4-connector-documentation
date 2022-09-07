@@ -30,7 +30,7 @@ Anypoint Studio.
 [width="100%", options="header"]
 |=======
 |Application/Service |Version
-|Mule Runtime |4.0.x and later
+|Mule Runtime |4.3.x and later
 |Anypoint Studio | 7.4.x and later
 |MATRIXX Software | 5227 and later
 |=======
