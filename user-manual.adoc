@@ -52,7 +52,7 @@ To install the connector open the pom.xml file in the project root folder and ad
 === To Configure the Connector
 * After adding connector dependency to Mule project, click on *Global Elements* tab at the base of the canvas.
 * In the Global Mule Configuration Elements screen, click *Create*.
-* In the Choose Global Type wizard, collapse connector configuration and select *'Redox Config'* and click OK.
+* In the Choose Global Type wizard, collapse connector configuration and select *'MATRIXX Open Api Config'* and click OK.
 
 image::img/redox-configt.png[]
 
