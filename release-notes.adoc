@@ -30,3 +30,8 @@ The MATRIXX Monetization Connector is compatible with these software versions:
 * System APIs
 * User APIs
 
+== Fixed in this Release
+* None
+
+== Known Issues
+* None
