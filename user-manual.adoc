@@ -11,11 +11,11 @@ Automated and integrated end-to-end processes are fundamental to enabling telcos
 
 With the MATRIXX Monetization Connector, a telco can readily integrate and orchestrate DCP’s monetization capabilities in real time to all their BSS/OSS systems to they can:
 
-* Anypoint Rapidly configure new price plans and offers and automatically integrate the DCP pricing catalog with the enterprise commercial catalog
+* Rapidly configure new price plans and offers and automatically integrate the DCP pricing catalog with the enterprise commercial catalog
 
-* Anypoint Support the Configure Price Quote (CPQ) processes through all customer-facing channels by presenting real-time, accurate prices from DCP
+* Support the Configure Price Quote (CPQ) processes through all customer-facing channels by presenting real-time, accurate prices from DCP
 
-* Anypoint Ensure that all new orders, moves, additions, changes, or deactivations are immediately reflected on the customer’s subscriptions so that one-time charges, recurring charges and usage charges are accurate at all times
+* Ensure that all new orders, moves, additions, changes, or deactivations are immediately reflected on the customer’s subscriptions so that one-time charges, recurring charges and usage charges are accurate at all times
 
 == Prerequisites
 This document assumes that you are familiar with Mule, Anypoint Connectors,
