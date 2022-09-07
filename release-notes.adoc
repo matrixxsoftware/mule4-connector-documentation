@@ -1,0 +1,23 @@
+= MATRIXX Monetization Connector Release Notes
+
+7th September 2022
+
+_MuleSoft Certified_
+
+MATRIXX Monetization Connector enables CSP's to readily integrate and orchestrate MATRIXX DCPs monetization capabilities in real time to all their BSS/OSS systems!
+
+== Version 1.0.0 - 07-09-2022
+This release of MATRIXX Monetization Connector is compatible with Mule 4.
+
+== Version 1.0.0 - Compatibility
+The Redox Connector is compatible with these software versions:
+
+[%header%autowidth.spread]
+|===
+|Software |Version
+|Mule |4.0.x and later
+|MATRIXX Software |Compatible with MTX-5227 and later
+|===
+
+
+
