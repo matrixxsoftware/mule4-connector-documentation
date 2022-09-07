@@ -21,20 +21,19 @@ With the MATRIXX Monetization Connector, a telco can readily integrate and orche
 This document assumes that you are familiar with Mule, Anypoint Connectors and 
 Anypoint Studio.
 
-To use MATRIXX Monetization Connector, you need access to MATRIXX server
+== Prerequisites
+
+* Access to a MATRIXX server
 
 == Mule Compatibility
 
 [width="100%", options="header"]
 |=======
 |Application/Service |Version
-|Mule Runtime |4.2.x and later
+|Mule Runtime |4.0.x and later
 |Anypoint Studio | 7.4.x and later
+|MATRIXX Software | 5227 and later
 |=======
-
-== What's New in this Connector
-
-* This Redox connector 1.0.0 is compatible with Mule 4.
 
 == To Install this Connector in Anypoint Studio 7
 You can use REDOX Connector in Anypoint Studio by adding it as a dependency in your Mule application.
