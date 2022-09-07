@@ -35,11 +35,8 @@ Anypoint Studio.
 |MATRIXX Software | 5227 and later
 |=======
 
-== To Install this Connector in Anypoint Studio 7
+== To Install this Connector in Anypoint Studio
 To install the connector open the pom.xml file in the project root folder and add the following dependency:
-
-. Open your Mule project in Anypoint Studio.
-. Add the connector as a dependency in the pom.xml file:
 
 ```
 <dependency>
@@ -49,9 +46,6 @@ To install the connector open the pom.xml file in the project root folder and ad
     <classifier>mule-plugin</classifier>
 </dependency>
 ```
-
-When Studio has an update, a message displays in the lower right corner, which
-you can click to install the update. After updating, update Maven pom.xml file dependencies to the new version.
 
 == Configure in Studio
 
