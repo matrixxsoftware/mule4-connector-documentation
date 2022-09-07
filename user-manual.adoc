@@ -6,9 +6,13 @@ MuleSoft Certified
 
 MATRIXX is the world’s go-to monetization solution for telcos who are transforming their business to accelerate innovation as they roll out new network capabilities (5G Standalone and MEC) to effectively compete against existing and emerging competition by providing differentiated real-time customer experiences.  MATRIXX Digital Commerce Platform is purpose-built to deliver web scale performance and agility to diversify revenue streams, better segment customer offers, and innovate more rapidly.  MATRIXX DCP monetizes telco offers across lines of business including consumer, enterprise and wholesale, and facilitates the convergence of existing distinct OSS/BSS silos into a unified monetization process.
 
-== About REDOX Connector
+== About MATRIXX Monetization Connector
+Automated and integrated end-to-end processes are fundamental to enabling telcos to compete at web scale. And at the heart of those integrated processes is MATRIXX Digital Commerce Platform, a monetization engine that delivers commercial agility, maximizes customer agility and ensures operational agility. 
 
-Anypoint Connector for REDOX provides the capability to perform multiple operations related to medical data in understandable JSON format.
+With the MATRIXX Monetization Connector, a telco can readily integrate and orchestrate DCP’s monetization capabilities in real time to all their BSS/OSS systems to they can:
+* Rapidly configure new price plans and offers and automatically integrate the DCP pricing catalog with the enterprise commercial catalog
+* Support the Configure Price Quote (CPQ) processes through all customer-facing channels by presenting real-time, accurate prices from DCP
+* Ensure that all new orders, moves, additions, changes, or deactivations are immediately reflected on the customer’s subscriptions so that one-time charges, recurring charges and usage charges are accurate at all times
 
 == Prerequisites
 This document assumes that you are familiar with Mule, Anypoint Connectors,
