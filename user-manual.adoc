@@ -36,7 +36,7 @@ Anypoint Studio.
 |=======
 
 == To Install this Connector in Anypoint Studio 7
-You can use REDOX Connector in Anypoint Studio by adding it as a dependency in your Mule application.
+To install the connector open the pom.xml file in the project root folder and add the following dependency:
 
 . Open your Mule project in Anypoint Studio.
 . Add the connector as a dependency in the pom.xml file:
@@ -44,7 +44,7 @@ You can use REDOX Connector in Anypoint Studio by adding it as a dependency in y
 ```
 <dependency>
     <groupId>com.mulesoft.connectors</groupId>
-    <artifactId>redox</artifactId>
+    <artifactId>mule4-matrixx-monetization-connector</artifactId>
     <version>1.0.0</version>
     <classifier>mule-plugin</classifier>
 </dependency>
