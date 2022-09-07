@@ -13,7 +13,7 @@ The MATRIXX Monetization Connector is compatible with these software versions:
 [%header%autowidth.spread]
 |===
 |Software |Version
-|Mule |4.0.x and later
+|Mule |4.3.x and later
 |MATRIXX Software |Compatible with MTX-5227 and later
 |===
 
